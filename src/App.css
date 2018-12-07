@@ -43,10 +43,9 @@
 }
 
 .array1{
-  color:brown;
-  font-size:40px;
-  background-color:grey;
-  height:200%;
+  color:red;
+  font-size:30px;
+  
   font-display: inline;
   align-content: flex-start;
 }
@@ -64,9 +63,9 @@ Select{
 }
 
 button {
-  width:60px;
+  width:100px;
   height:30px;
-  font-size:16px;
+  font-size:13px;
 }
 
 input {
